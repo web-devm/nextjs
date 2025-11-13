@@ -5,11 +5,10 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start -p 3000",
+    "start": "next start -p 8080",
     "lint": "eslint"
   },
   "dependencies": {
-    "express": "^5.1.0",
     "next": "16.0.2",
     "react": "19.2.0",
     "react-dom": "19.2.0"
